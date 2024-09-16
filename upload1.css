@@ -6,6 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: auto;
+    box-sizing:border-box;
 }
 
 .container {
@@ -15,6 +16,7 @@ body {
     background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    box-sizing:border-box;
 }
 
 .property-form {
